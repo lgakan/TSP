@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/TSP.hpp
+vector
+-
+numeric
+-
+ostream
+-
+tsp_setup.hpp
+../include/tsp_setup.hpp
+
+../include/tsp_setup.hpp
+limits
+-
+vector
+-
+
+C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/main.cpp
+TSP.hpp
+C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/TSP.hpp
+iostream
+-
+
