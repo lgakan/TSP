@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon"
+CMAKE_SOURCE_DIR = "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/tsp.dir/depend.make
@@ -68,44 +68,44 @@ include CMakeFiles/tsp.dir/flags.make
 CMakeFiles/tsp.dir/src/tsp_setup.cpp.obj: CMakeFiles/tsp.dir/flags.make
 CMakeFiles/tsp.dir/src/tsp_setup.cpp.obj: CMakeFiles/tsp.dir/includes_CXX.rsp
 CMakeFiles/tsp.dir/src/tsp_setup.cpp.obj: ../src/tsp_setup.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/tsp.dir/src/tsp_setup.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tsp.dir\src\tsp_setup.cpp.obj -c "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\src\tsp_setup.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/tsp.dir/src/tsp_setup.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tsp.dir\src\tsp_setup.cpp.obj -c "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP\src\tsp_setup.cpp"
 
 CMakeFiles/tsp.dir/src/tsp_setup.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tsp.dir/src/tsp_setup.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\src\tsp_setup.cpp" > CMakeFiles\tsp.dir\src\tsp_setup.cpp.i
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP\src\tsp_setup.cpp" > CMakeFiles\tsp.dir\src\tsp_setup.cpp.i
 
 CMakeFiles/tsp.dir/src/tsp_setup.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tsp.dir/src/tsp_setup.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\src\tsp_setup.cpp" -o CMakeFiles\tsp.dir\src\tsp_setup.cpp.s
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP\src\tsp_setup.cpp" -o CMakeFiles\tsp.dir\src\tsp_setup.cpp.s
 
 CMakeFiles/tsp.dir/src/TSP.cpp.obj: CMakeFiles/tsp.dir/flags.make
 CMakeFiles/tsp.dir/src/TSP.cpp.obj: CMakeFiles/tsp.dir/includes_CXX.rsp
 CMakeFiles/tsp.dir/src/TSP.cpp.obj: ../src/TSP.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/tsp.dir/src/TSP.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tsp.dir\src\TSP.cpp.obj -c "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\src\TSP.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/tsp.dir/src/TSP.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tsp.dir\src\TSP.cpp.obj -c "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP\src\TSP.cpp"
 
 CMakeFiles/tsp.dir/src/TSP.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tsp.dir/src/TSP.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\src\TSP.cpp" > CMakeFiles\tsp.dir\src\TSP.cpp.i
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP\src\TSP.cpp" > CMakeFiles\tsp.dir\src\TSP.cpp.i
 
 CMakeFiles/tsp.dir/src/TSP.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tsp.dir/src/TSP.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\src\TSP.cpp" -o CMakeFiles\tsp.dir\src\TSP.cpp.s
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP\src\TSP.cpp" -o CMakeFiles\tsp.dir\src\TSP.cpp.s
 
 CMakeFiles/tsp.dir/main.cpp.obj: CMakeFiles/tsp.dir/flags.make
 CMakeFiles/tsp.dir/main.cpp.obj: CMakeFiles/tsp.dir/includes_CXX.rsp
 CMakeFiles/tsp.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/tsp.dir/main.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tsp.dir\main.cpp.obj -c "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/tsp.dir/main.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tsp.dir\main.cpp.obj -c "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP\main.cpp"
 
 CMakeFiles/tsp.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tsp.dir/main.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\main.cpp" > CMakeFiles\tsp.dir\main.cpp.i
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP\main.cpp" > CMakeFiles\tsp.dir\main.cpp.i
 
 CMakeFiles/tsp.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tsp.dir/main.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\main.cpp" -o CMakeFiles\tsp.dir\main.cpp.s
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP\main.cpp" -o CMakeFiles\tsp.dir\main.cpp.s
 
 # Object files for target tsp
 tsp_OBJECTS = \
@@ -123,7 +123,7 @@ tsp.exe: CMakeFiles/tsp.dir/build.make
 tsp.exe: CMakeFiles/tsp.dir/linklibs.rsp
 tsp.exe: CMakeFiles/tsp.dir/objects1.rsp
 tsp.exe: CMakeFiles/tsp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable tsp.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable tsp.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\tsp.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -135,6 +135,6 @@ CMakeFiles/tsp.dir/clean:
 .PHONY : CMakeFiles/tsp.dir/clean
 
 CMakeFiles/tsp.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon" "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon" "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\cmake-build-debug" "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\cmake-build-debug" "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\cmake-build-debug\CMakeFiles\tsp.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP" "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP" "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP\cmake-build-debug" "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP\cmake-build-debug" "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP\cmake-build-debug\CMakeFiles\tsp.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/tsp.dir/depend
 

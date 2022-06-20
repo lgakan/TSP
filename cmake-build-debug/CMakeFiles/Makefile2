@@ -53,10 +53,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon"
+CMAKE_SOURCE_DIR = "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP\cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -80,14 +80,14 @@ clean: CMakeFiles/tsp.dir/clean
 CMakeFiles/tsp.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\tsp.dir\build.make CMakeFiles/tsp.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\tsp.dir\build.make CMakeFiles/tsp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\cmake-build-debug\CMakeFiles" --progress-num=1,2,3,4 "Built target tsp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP\cmake-build-debug\CMakeFiles" --progress-num=1,2,3,4 "Built target tsp"
 .PHONY : CMakeFiles/tsp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/tsp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\cmake-build-debug\CMakeFiles" 4
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP\cmake-build-debug\CMakeFiles" 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/tsp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Studia\STUDIA_2a\Zaawansowane Programowanie Obiektowe\problem\szablon\TSP\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/tsp.dir/rule
 
 # Convenience name for target.

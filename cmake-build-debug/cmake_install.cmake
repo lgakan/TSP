@@ -1,4 +1,4 @@
-# Install script for directory: C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon
+# Install script for directory: C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/TSP
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/TSP/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

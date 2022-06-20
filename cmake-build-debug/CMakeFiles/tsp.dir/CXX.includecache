@@ -22,9 +22,25 @@ limits
 vector
 -
 
-C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/main.cpp
+C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/TSP/main.cpp
 TSP.hpp
-C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/TSP.hpp
+C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/TSP/TSP.hpp
 iostream
 -
+
+C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/TSP/src/TSP.cpp
+TSP.hpp
+C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/TSP/src/TSP.hpp
+algorithm
+-
+stack
+-
+optional
+-
+iostream
+-
+
+C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/TSP/src/tsp_setup.cpp
+tsp_setup.hpp
+C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/TSP/src/tsp_setup.hpp
 

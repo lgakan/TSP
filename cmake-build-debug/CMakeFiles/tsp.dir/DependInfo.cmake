@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/main.cpp" "C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/cmake-build-debug/CMakeFiles/tsp.dir/main.cpp.obj"
-  "C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/src/TSP.cpp" "C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/cmake-build-debug/CMakeFiles/tsp.dir/src/TSP.cpp.obj"
-  "C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/src/tsp_setup.cpp" "C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/cmake-build-debug/CMakeFiles/tsp.dir/src/tsp_setup.cpp.obj"
+  "C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/TSP/main.cpp" "C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/TSP/cmake-build-debug/CMakeFiles/tsp.dir/main.cpp.obj"
+  "C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/TSP/src/TSP.cpp" "C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/TSP/cmake-build-debug/CMakeFiles/tsp.dir/src/TSP.cpp.obj"
+  "C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/TSP/src/tsp_setup.cpp" "C:/Studia/STUDIA_2a/Zaawansowane Programowanie Obiektowe/problem/szablon/TSP/cmake-build-debug/CMakeFiles/tsp.dir/src/tsp_setup.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
